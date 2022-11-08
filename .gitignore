@@ -1,0 +1,7 @@
+*.ap
+*.f0
+*.mgc
+result/
+*.dat
+*.list
+*.model
